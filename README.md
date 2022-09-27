@@ -1,2 +1,2 @@
 # CLMS_System_Analysis
-The first assignment of "Control of linear multivariable systems" is an analysis of a particular system.
+Assignment given by the professor Riccardo Minciardi for the course "Control of Linear Multivariable Systems" - Robotics Engineering, at the University of Genova.
