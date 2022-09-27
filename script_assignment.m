@@ -1,7 +1,7 @@
 % Benedetti Lorenzo
 % 4679798
 
-% Assignment of the course "Control of linear multivariable systems".
+% Assignment of the course "Control of Linear Multivariable Systems".
 
 A = [5, 0;
      2, 3];
